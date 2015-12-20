@@ -1,0 +1,17 @@
+.header__id {
+  display: inline;
+  margin: 10px;
+}
+
+.header__link--active::before {
+  content: '> ';
+}
+
+.header__link--active::after {
+  content: ' <';
+}
+
+.header__link--active {
+  color: #000;
+  text-decoration: none;
+}

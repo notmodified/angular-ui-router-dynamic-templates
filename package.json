@@ -1,0 +1,29 @@
+{
+  "name": "angular-ui-router-dynamic-templates",
+  "version": "1.0.0",
+  "description": "angular ui-router and dynamic templates",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notmodified/angular-ui-router-dynamic-templates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notmodified/angular-ui-router-dynamic-templates/issues"
+  },
+  "homepage": "https://github.com/notmodified/angular-ui-router-dynamic-templates#readme",
+  "devDependencies": {
+    "angular": "^1.4.8",
+    "angular-ui-router": "^0.2.15",
+    "angularjs": "0.0.1",
+    "babel-core": "^6.3.21",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "css-loader": "^0.23.0",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.9"
+  }
+}
